@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs><radialGradient id="g"><stop stop-color="#e9dfbd" stop-opacity=".28"/><stop offset="1" stop-color="#111426" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="700" fill="#090b18"/>
+<circle cx="850" cy="230" r="230" fill="url(#g)"/>
+<circle cx="850" cy="230" r="105" fill="#eee8d7" opacity=".9"/>
+<circle cx="900" cy="195" r="105" fill="#090b18"/>
+<g fill="#eee8d7" opacity=".75">
+<circle cx="130" cy="120" r="2"/><circle cx="220" cy="350" r="3"/><circle cx="390" cy="170" r="2"/>
+<circle cx="520" cy="450" r="2"/><circle cx="720" cy="100" r="2"/><circle cx="1030" cy="470" r="3"/>
+<circle cx="1110" cy="180" r="2"/><circle cx="310" cy="550" r="2"/>
+</g>
+<text x="80" y="580" fill="#e2d5ae" font-size="42" font-family="serif" letter-spacing="12">STAR FATE</text>
+</svg>
